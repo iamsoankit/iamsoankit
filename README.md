@@ -1,4 +1,3 @@
-![MasterHead](https://bestanimations.com/media/nature/1315285075flowing-waterfall-cliff-green-nature-animated-gif.gif)
 <h1 align="center">Hi 👋, I'm Ankit Mohapatra</h1>
 <h3 align="center">A dumb kid who is interested in science and computer science.Currently I am fascinated by the idea of doing research in computer science but not sure how much I will actually like it when I really start doing</h3>
 
