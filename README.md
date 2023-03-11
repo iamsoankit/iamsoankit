@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/iamsoankitt" target="blank"><img src="https://img.shields.io/twitter/follow/iamsoankitt?logo=twitter&style=for-the-badge" alt="iamsoankitt" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lw2qLPol--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrfyd6sxf6b9p609arjq.gif">
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Ankit-Mohapatra-41]([https://www.quora.com/profile/Ankit-Mohapatra-41](https://iamsoankitt.medium.com/))
+- 📝 I regularly write articles on [https://www.quora.com/profile/Ankit-Mohapatra-41]([(https://iamsoankitt.medium.com/)])
 
 - 📫 How to reach me **ankitmohapatra2017@gmail.com**
 
