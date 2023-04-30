@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Mohapatra</h1>
-<h3 align="center">A dumb kid who is interested in science and computer science.Currently I am fascinated by the idea of doing research in computer science but not sure how much I will actually like it when I really start doing</h3>
+<h3 align="center">A dumb kid who is interested in science and computer science.Currently I am fascinated by the idea of making computers talk like humans.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsoankit&label=Profile%20views&color=0e75b6&style=flat" alt="iamsoankit" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsoankit" alt="iamsoankit" /></a> </p>
